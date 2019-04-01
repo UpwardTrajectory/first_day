@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             David Kaspar
+Email:            david.kaspar@flatironschool.com
+Favorite Place:   wine tasting in France
+Favorite Food:    aged cheese to go with the wine
+Astrology sign:   Racoon
+Favorite movie:   City of God
